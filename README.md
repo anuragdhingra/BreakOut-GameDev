@@ -6,3 +6,5 @@ Controls:
 Keyboard controls: Use the left-arrow key and right arrow key to move the paddle.
 
 Mouse controls: Use the pointer to move the paddle left or right.
+
+Its live here : https://risingone.github.io/BreakOut/
